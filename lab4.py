@@ -38,7 +38,7 @@ while True:
     if choice == 1:
         flight_table.bubble_sort('P_ID')
     elif choice == 2:
-        flight_table.bubble_sort('Start Time')
+        flight_table.bubble_sort('Starting Time')
     elif choice == 3:
         flight_table.bubble_sort('Priority')
     elif choice == 4:
